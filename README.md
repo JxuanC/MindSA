@@ -9,11 +9,11 @@ Official Implementation of MindSA in PyTorch
 
 3) Extract CLIP representations by running fmri_process/feature_extract_nsd.py
 
-4) preprocess NSD by running fmri_process/NSD_handle.py
+4) Preprocess NSD by running fmri_process/NSD_handle.py
 
-5) train the Reconstruction model by running brain2text_train_nsd.py
+5) Train the Reconstruction model by running brain2text_train_nsd.py
 
-6) reconstructing text by running brain2text_infer_nsd.py
+6) Reconstructing text by running brain2text_infer_nsd.py
 
 * Our codebase builds on StableDiffusionReconstruction, MAE, SMALLCAP, stable-diffusion repositories. We would like to thank the authors.
 
