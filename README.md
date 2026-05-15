@@ -5,7 +5,7 @@ Official Implementation of MindSA in PyTorch
 
 1) Download NSD
 
-2) Install StableDiffusionReconstruction, and preprocess NSD
+2) Install StableDiffusionReconstruction
 
 3) Extract CLIP representations by running fmri_process/feature_extract_nsd.py
 
